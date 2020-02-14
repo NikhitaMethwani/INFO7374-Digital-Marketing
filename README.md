@@ -31,3 +31,4 @@ The high demand of physician specialities based on their products can be targete
 
 Resource Allocation: The physicians who invest in the manufacturers are targeted based on the state
 
+More details : https://codelabs-preview.appspot.com/?file_id=1Y1vXECVH8DN2NaWSV29jIx_m_K0i-OeyWpfOUJNBSKQ#0
