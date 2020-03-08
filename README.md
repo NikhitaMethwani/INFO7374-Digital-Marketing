@@ -12,4 +12,4 @@ Datasets:
 Research Dataset : This dataset consists of the payments done by manufacturers/GPOs in the research department ( Teaching Hospitals / Physicians ) based across states.
 
 ## Assignment 2
-## AdStock
+AdStock Model & Marketing Strategies to increase the customer base
