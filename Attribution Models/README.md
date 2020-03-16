@@ -18,4 +18,8 @@ ROI simulation is run on each of the models to understand the highest rate of re
 
 The models which perform better are Time decay and U shaped models with good return on ROI.
 
+Visualization: Dash
+Dash is a visualizations library that can be embeded inside a python web based app. 
+Dash is a framework built on top of plotly and flask 
+
 Deatils of each model is given in the https://docs.google.com/document/d/1D4T03x4UURty2MnWMvxy5KPfLM8RJbet4k1Lo_Jw1_0/edit
