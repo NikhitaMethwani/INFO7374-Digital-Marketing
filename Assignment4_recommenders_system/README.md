@@ -14,4 +14,4 @@ Evaluation
 Streamlit is used to do the Visualization of the recommendation Products as per the ratings given the users.
 
 Colab Link:
-https://docs.google.com/document/d/19p8qfAaXEsgX9rhTbGKFQkz9OY8PcLCVpj-HPBd-xls/edit#heading=h.7by35xi7elbv
+https://codelabs-preview.appspot.com/?file_id=19p8qfAaXEsgX9rhTbGKFQkz9OY8PcLCVpj-HPBd-xls#0
