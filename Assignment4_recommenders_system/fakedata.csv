@@ -1,0 +1,1002 @@
+userID,itemID,rating,timestamp,Products
+102,4,3,6/10/2019 13:01,Cold Brew
+110,3,1,9/6/2019 8:31,Expresso
+100,10,1,10/6/2019 13:15,Pistachios Pack
+106,2,1,4/27/2019 14:43,Vanilla Chai
+100,11,3,7/23/2019 3:50,Cashew nut Pack
+115,6,1,1/11/2020 9:18,Iced Cappacino
+112,15,4,7/13/2019 10:22,Snickers
+108,9,2,3/24/2020 8:59,Almonds Pack
+112,6,2,11/7/2019 5:52,Iced Cappacino
+109,9,3,8/18/2019 8:26,Almonds Pack
+115,8,3,1/28/2020 4:18,Apple Juice
+113,4,2,12/10/2019 4:10,Cold Brew
+110,13,2,10/20/2019 2:11,Cape Cod Chips
+110,3,4,1/20/2020 16:21,Expresso
+112,5,0,4/27/2019 13:22,Ice Coffee
+112,1,2,1/22/2020 6:14,Mocha Latte Coffee
+105,5,2,1/15/2020 9:21,Ice Coffee
+108,10,1,2/23/2020 3:58,Pistachios Pack
+102,1,4,6/18/2019 12:47,Mocha Latte Coffee
+104,12,3,9/26/2019 21:40,Pringles
+110,15,3,5/24/2019 18:51,Snickers
+105,12,4,6/28/2019 16:48,Pringles
+107,6,1,2/24/2020 10:40,Iced Cappacino
+103,12,2,3/26/2020 6:00,Pringles
+104,3,4,5/1/2019 10:19,Expresso
+104,13,4,3/9/2020 18:36,Cape Cod Chips
+105,11,4,8/12/2019 20:10,Cashew nut Pack
+113,11,1,5/13/2019 2:19,Cashew nut Pack
+112,3,2,3/4/2020 2:04,Expresso
+105,7,3,1/2/2020 15:25,Banana Juice
+105,3,3,8/2/2019 10:23,Expresso
+105,9,4,7/3/2019 10:47,Almonds Pack
+101,7,1,8/7/2019 11:03,Banana Juice
+115,4,2,2/2/2020 14:52,Cold Brew
+101,9,1,1/6/2020 19:45,Almonds Pack
+107,12,3,8/20/2019 10:17,Pringles
+109,12,1,12/25/2019 3:45,Pringles
+107,15,5,6/16/2019 17:44,Snickers
+108,7,1,2/27/2020 10:30,Banana Juice
+100,9,2,1/18/2020 3:12,Almonds Pack
+112,10,1,2/3/2020 21:57,Pistachios Pack
+105,10,2,8/5/2019 7:52,Pistachios Pack
+110,8,4,9/17/2019 7:39,Apple Juice
+110,2,2,11/9/2019 17:13,Vanilla Chai
+107,8,1,1/19/2020 17:07,Apple Juice
+113,13,5,2/3/2020 14:25,Cape Cod Chips
+101,2,1,9/29/2019 21:34,Vanilla Chai
+112,2,4,1/9/2020 1:01,Vanilla Chai
+115,7,4,7/11/2019 10:16,Banana Juice
+100,7,2,7/30/2019 22:30,Banana Juice
+101,5,2,6/13/2019 13:19,Ice Coffee
+109,2,1,6/15/2019 3:29,Vanilla Chai
+110,3,2,6/30/2019 5:17,Expresso
+105,5,2,8/28/2019 0:28,Ice Coffee
+114,13,1,5/22/2019 17:41,Cape Cod Chips
+109,13,1,9/17/2019 18:57,Cape Cod Chips
+107,1,3,10/20/2019 13:17,Mocha Latte Coffee
+102,5,2,1/4/2020 13:08,Ice Coffee
+112,15,2,10/10/2019 6:53,Snickers
+114,4,1,5/29/2019 15:35,Cold Brew
+100,14,5,9/2/2019 15:39,Doritos
+102,7,4,6/6/2019 20:53,Banana Juice
+101,1,1,1/31/2020 19:18,Mocha Latte Coffee
+108,8,2,5/29/2019 19:36,Apple Juice
+114,15,5,3/13/2020 7:50,Snickers
+100,4,1,6/20/2019 5:15,Cold Brew
+103,1,5,12/31/2019 11:56,Mocha Latte Coffee
+115,9,4,1/3/2020 4:06,Almonds Pack
+114,9,1,11/23/2019 18:32,Almonds Pack
+112,10,1,9/8/2019 14:47,Pistachios Pack
+109,10,2,10/24/2019 9:10,Pistachios Pack
+113,9,3,6/4/2019 19:40,Almonds Pack
+106,14,1,7/26/2019 6:58,Doritos
+110,11,2,7/27/2019 8:36,Cashew nut Pack
+108,11,4,7/11/2019 8:16,Cashew nut Pack
+101,1,5,4/30/2019 10:19,Mocha Latte Coffee
+102,7,4,12/11/2019 9:27,Banana Juice
+100,7,2,4/23/2019 10:05,Banana Juice
+106,10,2,3/22/2020 18:31,Pistachios Pack
+111,3,2,10/13/2019 0:23,Expresso
+112,9,3,3/24/2020 7:55,Almonds Pack
+111,4,4,2/25/2020 21:02,Cold Brew
+105,12,3,4/7/2019 11:33,Pringles
+103,11,2,3/27/2020 4:54,Cashew nut Pack
+111,3,1,4/29/2019 1:41,Expresso
+114,3,1,11/28/2019 3:39,Expresso
+109,8,4,7/26/2019 15:15,Apple Juice
+109,9,5,4/24/2019 6:17,Almonds Pack
+107,1,4,6/12/2019 15:34,Mocha Latte Coffee
+110,8,4,4/7/2019 19:43,Apple Juice
+100,5,4,1/29/2020 12:19,Ice Coffee
+112,11,4,9/26/2019 2:03,Cashew nut Pack
+101,11,1,1/1/2020 17:28,Cashew nut Pack
+104,9,2,6/16/2019 11:05,Almonds Pack
+106,5,2,6/7/2019 14:52,Ice Coffee
+113,5,2,7/10/2019 16:50,Ice Coffee
+101,3,3,10/25/2019 4:06,Expresso
+113,13,1,5/15/2019 4:27,Cape Cod Chips
+107,6,2,1/12/2020 8:33,Iced Cappacino
+112,14,5,7/13/2019 13:20,Doritos
+109,11,2,1/4/2020 15:00,Cashew nut Pack
+105,14,1,3/26/2020 12:30,Doritos
+110,4,2,5/31/2019 11:08,Cold Brew
+108,1,1,1/25/2020 9:01,Mocha Latte Coffee
+108,8,2,1/8/2020 1:26,Apple Juice
+109,3,1,9/10/2019 21:53,Expresso
+104,8,1,9/17/2019 0:42,Apple Juice
+106,8,4,3/20/2020 12:58,Apple Juice
+113,15,2,7/11/2019 15:23,Snickers
+109,3,3,4/9/2019 2:19,Expresso
+103,12,4,8/3/2019 23:06,Pringles
+100,10,3,9/23/2019 13:25,Pistachios Pack
+102,6,5,8/5/2019 17:11,Iced Cappacino
+105,4,1,6/3/2019 21:46,Cold Brew
+108,7,2,2/22/2020 5:49,Banana Juice
+106,9,2,10/16/2019 5:57,Almonds Pack
+105,5,2,12/30/2019 18:04,Ice Coffee
+105,3,3,6/12/2019 13:59,Expresso
+109,12,2,3/19/2020 14:49,Pringles
+112,2,2,5/29/2019 14:43,Vanilla Chai
+113,2,1,1/26/2020 11:35,Vanilla Chai
+114,2,1,1/12/2020 6:59,Vanilla Chai
+101,9,4,11/13/2019 10:42,Almonds Pack
+112,2,1,10/30/2019 19:19,Vanilla Chai
+108,4,2,5/6/2019 21:23,Cold Brew
+113,4,2,7/29/2019 11:45,Cold Brew
+110,11,2,3/1/2020 12:15,Cashew nut Pack
+112,8,2,10/24/2019 3:38,Apple Juice
+108,12,4,5/10/2019 18:00,Pringles
+105,8,4,2/21/2020 4:40,Apple Juice
+111,4,4,3/22/2020 22:52,Cold Brew
+114,5,1,12/14/2019 18:51,Ice Coffee
+101,4,2,11/27/2019 10:12,Cold Brew
+112,3,1,12/26/2019 4:26,Expresso
+103,2,2,8/7/2019 1:11,Vanilla Chai
+112,3,5,11/23/2019 8:53,Expresso
+111,10,2,10/20/2019 9:05,Pistachios Pack
+111,15,5,6/5/2019 3:54,Snickers
+105,5,3,11/1/2019 16:16,Ice Coffee
+108,8,3,12/15/2019 13:22,Apple Juice
+106,6,4,10/15/2019 22:40,Iced Cappacino
+102,6,3,10/10/2019 13:17,Iced Cappacino
+107,9,1,7/29/2019 17:35,Almonds Pack
+105,5,3,9/29/2019 22:00,Ice Coffee
+100,14,4,9/23/2019 17:23,Doritos
+107,15,1,8/8/2019 4:36,Snickers
+101,3,1,3/3/2020 11:30,Expresso
+110,6,3,9/3/2019 17:15,Iced Cappacino
+110,1,5,4/17/2019 15:16,Mocha Latte Coffee
+100,14,1,9/6/2019 20:04,Doritos
+114,1,3,10/6/2019 22:58,Mocha Latte Coffee
+107,12,2,5/31/2019 16:22,Pringles
+107,13,4,6/9/2019 4:42,Cape Cod Chips
+105,7,1,10/9/2019 12:05,Banana Juice
+100,15,5,10/16/2019 19:55,Snickers
+113,8,3,3/25/2020 12:40,Apple Juice
+110,11,1,10/20/2019 0:16,Cashew nut Pack
+100,11,1,7/24/2019 7:39,Cashew nut Pack
+113,4,3,10/26/2019 16:18,Cold Brew
+111,9,1,5/13/2019 14:28,Almonds Pack
+100,8,1,11/20/2019 15:32,Apple Juice
+103,5,1,9/15/2019 14:25,Ice Coffee
+111,15,5,7/23/2019 14:18,Snickers
+101,1,1,4/27/2019 14:48,Mocha Latte Coffee
+113,15,4,1/29/2020 12:39,Snickers
+114,3,2,4/25/2019 2:04,Expresso
+111,9,2,2/13/2020 20:58,Almonds Pack
+101,15,4,10/18/2019 21:16,Snickers
+104,15,3,10/4/2019 0:53,Snickers
+100,15,1,4/27/2019 20:02,Snickers
+105,1,3,6/16/2019 6:11,Mocha Latte Coffee
+101,12,2,3/25/2020 22:21,Pringles
+113,6,3,9/3/2019 15:36,Iced Cappacino
+112,7,1,9/17/2019 18:57,Banana Juice
+113,9,1,12/13/2019 8:37,Almonds Pack
+111,3,5,8/6/2019 20:34,Expresso
+101,11,4,1/7/2020 14:57,Cashew nut Pack
+100,13,1,2/29/2020 14:10,Cape Cod Chips
+104,10,2,10/25/2019 1:52,Pistachios Pack
+111,12,2,4/16/2019 5:14,Pringles
+109,11,1,11/26/2019 14:43,Cashew nut Pack
+112,10,1,6/17/2019 6:26,Pistachios Pack
+105,9,1,7/8/2019 10:34,Almonds Pack
+105,11,1,8/31/2019 17:22,Cashew nut Pack
+103,3,4,7/20/2019 10:03,Expresso
+106,10,1,11/22/2019 15:34,Pistachios Pack
+112,8,1,8/5/2019 11:14,Apple Juice
+114,12,2,2/24/2020 19:54,Pringles
+104,1,0,6/13/2019 10:17,Mocha Latte Coffee
+111,2,5,1/1/2020 4:03,Vanilla Chai
+113,14,3,4/28/2019 9:24,Doritos
+113,10,5,9/19/2019 11:45,Pistachios Pack
+115,1,2,10/26/2019 4:56,Mocha Latte Coffee
+102,5,1,9/16/2019 3:38,Ice Coffee
+113,12,5,3/19/2020 12:44,Pringles
+113,10,1,7/25/2019 4:59,Pistachios Pack
+109,14,0,11/10/2019 21:13,Doritos
+101,9,1,9/11/2019 6:51,Almonds Pack
+109,5,4,10/6/2019 20:27,Ice Coffee
+102,7,4,9/22/2019 3:36,Banana Juice
+103,1,4,3/4/2020 19:44,Mocha Latte Coffee
+101,5,1,11/4/2019 22:41,Ice Coffee
+104,3,2,5/30/2019 19:03,Expresso
+102,1,2,11/10/2019 11:23,Mocha Latte Coffee
+101,2,4,5/4/2019 15:00,Vanilla Chai
+107,13,1,10/20/2019 11:50,Cape Cod Chips
+109,15,3,9/21/2019 1:01,Snickers
+111,9,2,8/3/2019 19:28,Almonds Pack
+110,4,4,4/10/2019 19:00,Cold Brew
+113,15,1,8/29/2019 2:09,Snickers
+100,14,2,11/19/2019 12:28,Doritos
+101,1,1,8/4/2019 21:32,Mocha Latte Coffee
+107,11,4,8/22/2019 20:00,Cashew nut Pack
+105,6,2,12/13/2019 0:29,Iced Cappacino
+114,5,3,6/3/2019 17:44,Ice Coffee
+104,3,5,1/11/2020 2:56,Expresso
+107,8,2,8/26/2019 7:04,Apple Juice
+113,8,3,2/12/2020 12:52,Apple Juice
+102,9,4,4/19/2019 5:23,Almonds Pack
+114,1,2,9/10/2019 15:28,Mocha Latte Coffee
+114,1,4,6/3/2019 10:42,Mocha Latte Coffee
+107,11,2,3/17/2020 22:38,Cashew nut Pack
+105,1,5,1/4/2020 12:18,Mocha Latte Coffee
+109,7,1,11/18/2019 0:17,Banana Juice
+102,15,2,5/21/2019 16:31,Snickers
+110,6,3,9/6/2019 18:38,Iced Cappacino
+109,9,4,11/13/2019 1:02,Almonds Pack
+106,15,1,1/16/2020 13:26,Snickers
+108,11,1,1/8/2020 0:07,Cashew nut Pack
+101,13,1,8/12/2019 11:58,Cape Cod Chips
+100,3,5,1/10/2020 6:51,Expresso
+102,5,2,7/6/2019 4:26,Ice Coffee
+112,11,2,7/11/2019 23:37,Cashew nut Pack
+107,5,1,11/27/2019 19:14,Ice Coffee
+104,5,3,8/6/2019 16:29,Ice Coffee
+108,13,4,12/12/2019 4:16,Cape Cod Chips
+110,5,5,2/16/2020 13:39,Ice Coffee
+100,12,3,1/31/2020 15:31,Pringles
+115,3,1,7/12/2019 18:12,Expresso
+114,15,2,8/20/2019 9:38,Snickers
+111,14,1,6/25/2019 20:55,Doritos
+107,5,2,2/23/2020 5:34,Ice Coffee
+100,7,3,7/23/2019 1:46,Banana Juice
+113,1,1,3/17/2020 0:50,Mocha Latte Coffee
+103,6,1,12/24/2019 13:48,Iced Cappacino
+107,6,1,4/1/2019 20:21,Iced Cappacino
+101,3,4,7/31/2019 1:51,Expresso
+115,7,2,10/13/2019 11:08,Banana Juice
+112,1,1,8/9/2019 21:38,Mocha Latte Coffee
+113,9,4,10/1/2019 4:13,Almonds Pack
+102,13,4,9/7/2019 11:07,Cape Cod Chips
+104,13,2,10/4/2019 7:10,Cape Cod Chips
+106,5,2,9/6/2019 21:13,Ice Coffee
+101,6,3,8/3/2019 22:07,Iced Cappacino
+111,13,4,3/15/2020 11:27,Cape Cod Chips
+104,10,1,10/10/2019 21:11,Pistachios Pack
+112,2,4,12/14/2019 5:46,Vanilla Chai
+114,6,2,4/26/2019 23:00,Iced Cappacino
+106,10,4,8/19/2019 0:28,Pistachios Pack
+101,10,4,8/30/2019 9:17,Pistachios Pack
+111,14,3,7/17/2019 15:15,Doritos
+103,4,1,6/3/2019 22:32,Cold Brew
+107,4,1,5/22/2019 19:37,Cold Brew
+102,1,5,1/3/2020 17:52,Mocha Latte Coffee
+102,10,1,2/29/2020 15:23,Pistachios Pack
+103,2,1,5/26/2019 15:14,Vanilla Chai
+101,6,4,2/27/2020 17:22,Iced Cappacino
+104,3,5,2/24/2020 18:20,Expresso
+102,5,4,2/29/2020 20:08,Ice Coffee
+111,12,1,3/3/2020 2:24,Pringles
+104,8,2,8/16/2019 0:39,Apple Juice
+104,9,3,10/21/2019 9:24,Almonds Pack
+113,4,2,12/11/2019 6:21,Cold Brew
+113,5,2,3/8/2020 0:45,Ice Coffee
+113,10,1,3/9/2020 21:45,Pistachios Pack
+100,11,2,1/14/2020 19:48,Cashew nut Pack
+113,13,4,2/25/2020 9:50,Cape Cod Chips
+104,1,2,6/16/2019 6:38,Mocha Latte Coffee
+104,8,1,9/29/2019 16:33,Apple Juice
+112,11,4,3/23/2020 11:47,Cashew nut Pack
+114,3,1,3/11/2020 3:24,Expresso
+109,9,2,1/26/2020 16:19,Almonds Pack
+113,14,2,2/7/2020 16:25,Doritos
+112,12,4,11/4/2019 2:19,Pringles
+111,6,2,3/28/2019 23:34,Iced Cappacino
+111,2,3,5/16/2019 3:12,Vanilla Chai
+110,8,4,10/25/2019 19:17,Apple Juice
+100,9,2,1/23/2020 13:51,Almonds Pack
+108,5,4,11/12/2019 19:00,Ice Coffee
+111,6,4,9/21/2019 9:13,Iced Cappacino
+102,10,2,5/8/2019 18:26,Pistachios Pack
+107,7,4,6/5/2019 2:59,Banana Juice
+100,6,2,11/9/2019 13:54,Iced Cappacino
+108,12,5,10/3/2019 19:55,Pringles
+106,7,1,7/21/2019 19:42,Banana Juice
+112,9,5,12/30/2019 19:51,Almonds Pack
+102,5,2,9/24/2019 12:08,Ice Coffee
+107,12,4,4/28/2019 10:59,Pringles
+113,3,4,8/10/2019 12:16,Expresso
+103,9,2,9/5/2019 7:29,Almonds Pack
+101,2,5,7/9/2019 11:13,Vanilla Chai
+105,5,1,4/22/2019 21:07,Ice Coffee
+104,1,2,1/27/2020 11:00,Mocha Latte Coffee
+105,1,5,4/11/2019 17:19,Mocha Latte Coffee
+104,15,4,2/4/2020 16:27,Snickers
+100,2,4,9/15/2019 21:26,Vanilla Chai
+100,8,2,2/27/2020 13:19,Apple Juice
+110,15,3,8/3/2019 5:25,Snickers
+107,15,3,7/29/2019 3:16,Snickers
+110,2,2,2/17/2020 19:38,Vanilla Chai
+100,11,4,8/26/2019 2:32,Cashew nut Pack
+109,5,4,2/1/2020 4:29,Ice Coffee
+101,2,1,6/27/2019 10:01,Vanilla Chai
+105,14,3,9/22/2019 1:19,Doritos
+107,6,3,2/1/2020 22:34,Iced Cappacino
+112,1,4,5/5/2019 4:09,Mocha Latte Coffee
+114,4,1,10/27/2019 5:45,Cold Brew
+114,3,4,9/14/2019 4:57,Expresso
+107,3,4,12/27/2019 3:49,Expresso
+101,7,4,8/6/2019 19:52,Banana Juice
+108,13,1,2/15/2020 4:58,Cape Cod Chips
+111,5,4,1/22/2020 18:03,Ice Coffee
+115,15,1,2/5/2020 2:54,Snickers
+100,2,1,9/13/2019 0:19,Vanilla Chai
+103,8,2,11/25/2019 20:31,Apple Juice
+109,10,3,4/3/2019 12:14,Pistachios Pack
+106,4,3,12/29/2019 20:58,Cold Brew
+108,13,1,9/21/2019 13:15,Cape Cod Chips
+107,7,3,11/7/2019 20:34,Banana Juice
+101,12,1,10/4/2019 17:34,Pringles
+107,4,1,4/28/2019 14:27,Cold Brew
+108,15,2,5/26/2019 1:34,Snickers
+109,10,4,5/17/2019 6:27,Pistachios Pack
+113,5,4,9/20/2019 6:42,Ice Coffee
+102,2,2,4/3/2019 23:32,Vanilla Chai
+103,9,1,12/13/2019 17:42,Almonds Pack
+110,12,1,1/4/2020 9:43,Pringles
+109,1,2,10/24/2019 19:54,Mocha Latte Coffee
+114,1,2,12/2/2019 1:59,Mocha Latte Coffee
+111,3,4,6/22/2019 22:47,Expresso
+112,3,2,1/27/2020 20:25,Expresso
+111,14,5,10/9/2019 0:00,Doritos
+100,2,5,6/23/2019 10:14,Vanilla Chai
+108,2,1,11/4/2019 0:16,Vanilla Chai
+113,8,2,3/3/2020 18:19,Apple Juice
+102,11,2,6/4/2019 14:10,Cashew nut Pack
+104,12,2,4/13/2019 5:51,Pringles
+111,10,2,3/11/2020 6:42,Pistachios Pack
+104,4,1,8/6/2019 0:25,Cold Brew
+114,14,2,1/24/2020 10:41,Doritos
+105,9,5,8/26/2019 16:03,Almonds Pack
+100,1,4,5/4/2019 5:06,Mocha Latte Coffee
+109,11,3,12/7/2019 23:25,Cashew nut Pack
+105,7,2,11/8/2019 2:45,Banana Juice
+109,7,4,1/11/2020 6:27,Banana Juice
+102,7,1,12/3/2019 5:31,Banana Juice
+102,9,2,11/9/2019 3:46,Almonds Pack
+103,4,4,6/9/2019 4:43,Cold Brew
+100,8,2,3/15/2020 15:17,Apple Juice
+113,2,1,12/26/2019 23:25,Vanilla Chai
+103,15,2,1/11/2020 17:53,Snickers
+103,5,2,9/6/2019 6:13,Ice Coffee
+101,13,2,2/21/2020 16:01,Cape Cod Chips
+104,2,1,10/15/2019 19:22,Vanilla Chai
+109,11,5,3/10/2020 21:56,Cashew nut Pack
+100,6,1,9/11/2019 18:52,Iced Cappacino
+107,2,1,3/16/2020 19:42,Vanilla Chai
+102,12,2,2/11/2020 14:34,Pringles
+108,14,1,11/4/2019 18:09,Doritos
+102,2,1,12/7/2019 7:40,Vanilla Chai
+103,3,2,11/2/2019 16:46,Expresso
+112,9,4,5/12/2019 4:09,Almonds Pack
+110,14,1,7/29/2019 9:45,Doritos
+113,3,1,6/24/2019 5:15,Expresso
+102,10,2,10/29/2019 22:18,Pistachios Pack
+113,9,3,6/8/2019 6:11,Almonds Pack
+107,6,3,9/8/2019 12:34,Iced Cappacino
+111,11,2,1/21/2020 3:40,Cashew nut Pack
+101,2,1,5/14/2019 20:18,Vanilla Chai
+115,9,2,11/1/2019 14:59,Almonds Pack
+111,14,3,12/14/2019 15:17,Doritos
+105,3,2,9/13/2019 8:51,Expresso
+101,10,3,7/13/2019 9:23,Pistachios Pack
+102,2,1,2/19/2020 13:59,Vanilla Chai
+105,14,5,7/18/2019 5:14,Doritos
+109,2,4,7/6/2019 16:51,Vanilla Chai
+113,13,3,10/28/2019 3:45,Cape Cod Chips
+105,6,2,8/5/2019 17:07,Iced Cappacino
+109,8,3,11/3/2019 23:05,Apple Juice
+107,3,5,12/19/2019 6:50,Expresso
+104,1,4,6/6/2019 9:00,Mocha Latte Coffee
+112,13,5,4/20/2019 7:07,Cape Cod Chips
+104,10,4,5/2/2019 12:00,Pistachios Pack
+114,11,4,11/5/2019 22:15,Cashew nut Pack
+106,6,4,7/7/2019 9:04,Iced Cappacino
+101,4,2,12/16/2019 1:16,Cold Brew
+114,8,2,5/6/2019 6:16,Apple Juice
+115,13,5,2/23/2020 6:56,Cape Cod Chips
+107,11,5,5/5/2019 9:30,Cashew nut Pack
+104,1,3,1/27/2020 22:42,Mocha Latte Coffee
+107,12,5,3/6/2020 6:21,Pringles
+114,12,2,8/21/2019 22:38,Pringles
+106,12,2,4/21/2019 13:35,Pringles
+103,13,3,6/26/2019 23:57,Cape Cod Chips
+102,12,1,6/19/2019 13:06,Pringles
+111,10,3,4/2/2019 11:17,Pistachios Pack
+108,14,1,8/21/2019 9:18,Doritos
+101,3,2,2/4/2020 13:14,Expresso
+103,12,4,7/9/2019 20:16,Pringles
+114,8,4,8/18/2019 13:44,Apple Juice
+114,13,4,6/20/2019 9:37,Cape Cod Chips
+113,3,2,9/23/2019 6:22,Expresso
+102,7,2,10/27/2019 11:21,Banana Juice
+102,11,2,8/2/2019 17:33,Cashew nut Pack
+105,12,4,9/13/2019 1:52,Pringles
+112,10,1,1/13/2020 8:47,Pistachios Pack
+102,12,1,3/25/2020 8:15,Pringles
+105,7,2,4/20/2019 2:01,Banana Juice
+108,1,2,8/25/2019 10:44,Mocha Latte Coffee
+112,4,4,5/26/2019 19:50,Cold Brew
+112,6,5,9/13/2019 12:03,Iced Cappacino
+102,7,1,12/9/2019 0:42,Banana Juice
+114,9,4,8/12/2019 8:31,Almonds Pack
+110,15,3,7/4/2019 18:47,Snickers
+102,4,5,3/5/2020 17:58,Cold Brew
+102,13,5,10/28/2019 0:18,Cape Cod Chips
+108,13,5,8/25/2019 0:04,Cape Cod Chips
+100,13,5,1/4/2020 1:13,Cape Cod Chips
+106,7,2,8/14/2019 23:08,Banana Juice
+114,8,2,3/3/2020 13:31,Apple Juice
+105,7,4,10/12/2019 15:11,Banana Juice
+115,3,0,5/13/2019 15:24,Expresso
+110,6,2,6/24/2019 13:14,Iced Cappacino
+102,12,2,4/14/2019 18:24,Pringles
+110,8,2,2/26/2020 6:45,Apple Juice
+103,8,4,8/24/2019 1:20,Apple Juice
+101,5,1,3/2/2020 10:18,Ice Coffee
+108,11,2,12/19/2019 11:39,Cashew nut Pack
+113,12,1,5/17/2019 22:58,Pringles
+112,15,5,1/21/2020 0:00,Snickers
+111,14,1,10/5/2019 23:03,Doritos
+102,12,2,5/16/2019 4:17,Pringles
+104,15,3,12/13/2019 10:10,Snickers
+113,6,5,4/15/2019 20:01,Iced Cappacino
+101,10,2,8/29/2019 16:44,Pistachios Pack
+101,13,3,7/21/2019 13:58,Cape Cod Chips
+108,12,1,9/23/2019 9:03,Pringles
+115,8,2,6/24/2019 2:41,Apple Juice
+111,9,2,4/20/2019 19:05,Almonds Pack
+104,5,4,8/30/2019 8:56,Ice Coffee
+113,10,3,5/29/2019 21:19,Pistachios Pack
+110,8,2,9/6/2019 3:16,Apple Juice
+101,14,1,3/2/2020 19:13,Doritos
+102,8,4,2/18/2020 4:41,Apple Juice
+106,1,3,10/25/2019 19:55,Mocha Latte Coffee
+105,11,2,10/16/2019 4:11,Cashew nut Pack
+110,10,2,3/7/2020 6:45,Pistachios Pack
+108,8,1,6/19/2019 22:38,Apple Juice
+110,7,0,9/16/2019 9:09,Banana Juice
+114,12,5,3/5/2020 22:36,Pringles
+110,12,1,10/5/2019 12:30,Pringles
+115,4,1,9/29/2019 20:20,Cold Brew
+109,15,5,2/14/2020 0:36,Snickers
+103,2,4,3/8/2020 18:25,Vanilla Chai
+103,14,3,7/20/2019 18:03,Doritos
+100,15,3,3/29/2019 18:42,Snickers
+101,11,2,3/26/2020 4:44,Cashew nut Pack
+109,4,2,8/14/2019 13:52,Cold Brew
+101,6,2,11/20/2019 20:08,Iced Cappacino
+110,14,4,12/19/2019 14:33,Doritos
+114,9,2,9/2/2019 4:48,Almonds Pack
+109,8,3,3/5/2020 12:49,Apple Juice
+115,2,1,10/23/2019 2:41,Vanilla Chai
+103,7,2,1/26/2020 3:18,Banana Juice
+113,12,4,5/29/2019 18:25,Pringles
+100,8,5,9/16/2019 19:38,Apple Juice
+115,1,3,2/8/2020 17:15,Mocha Latte Coffee
+107,8,2,8/8/2019 9:49,Apple Juice
+111,3,2,8/15/2019 20:54,Expresso
+111,14,2,8/24/2019 17:53,Doritos
+101,10,1,9/25/2019 3:38,Pistachios Pack
+110,10,4,12/19/2019 23:11,Pistachios Pack
+115,7,3,3/10/2020 8:18,Banana Juice
+110,8,2,8/28/2019 3:53,Apple Juice
+104,10,2,10/4/2019 9:35,Pistachios Pack
+114,6,1,12/23/2019 23:36,Iced Cappacino
+109,8,2,2/11/2020 18:10,Apple Juice
+106,10,1,1/14/2020 0:06,Pistachios Pack
+102,1,2,11/6/2019 20:50,Mocha Latte Coffee
+115,14,2,6/28/2019 14:25,Doritos
+106,6,2,10/31/2019 1:58,Iced Cappacino
+115,5,3,6/25/2019 0:50,Ice Coffee
+114,3,3,5/24/2019 23:56,Expresso
+111,6,5,3/21/2020 12:25,Iced Cappacino
+111,1,5,3/10/2020 6:12,Mocha Latte Coffee
+115,14,5,9/10/2019 17:42,Doritos
+108,3,2,3/3/2020 19:23,Expresso
+114,3,2,1/26/2020 21:13,Expresso
+101,1,3,6/30/2019 20:38,Mocha Latte Coffee
+102,12,2,12/4/2019 13:33,Pringles
+101,3,2,4/1/2019 0:56,Expresso
+100,8,1,6/3/2019 12:42,Apple Juice
+109,9,2,8/17/2019 10:55,Almonds Pack
+106,6,2,8/1/2019 14:47,Iced Cappacino
+101,3,3,11/26/2019 0:14,Expresso
+103,7,4,11/1/2019 8:03,Banana Juice
+109,4,2,6/24/2019 8:13,Cold Brew
+114,12,2,7/6/2019 11:24,Pringles
+114,6,1,1/27/2020 7:31,Iced Cappacino
+111,4,1,2/27/2020 12:15,Cold Brew
+115,14,2,5/5/2019 14:31,Doritos
+103,7,1,7/27/2019 2:51,Banana Juice
+101,6,4,7/22/2019 3:19,Iced Cappacino
+115,9,2,9/15/2019 20:22,Almonds Pack
+115,12,1,10/25/2019 11:32,Pringles
+110,3,2,10/7/2019 20:18,Expresso
+100,11,1,11/25/2019 14:56,Cashew nut Pack
+115,15,5,10/2/2019 21:36,Snickers
+115,8,1,8/24/2019 2:44,Apple Juice
+101,9,3,9/23/2019 17:56,Almonds Pack
+114,5,3,2/1/2020 4:22,Ice Coffee
+108,12,4,2/20/2020 15:20,Pringles
+109,13,1,5/13/2019 23:43,Cape Cod Chips
+108,13,2,2/3/2020 5:21,Cape Cod Chips
+100,10,1,6/3/2019 22:49,Pistachios Pack
+113,3,1,3/18/2020 21:41,Expresso
+103,3,5,3/11/2020 18:43,Expresso
+108,11,4,3/24/2020 21:18,Cashew nut Pack
+105,8,1,10/9/2019 7:02,Apple Juice
+100,11,1,2/15/2020 10:20,Cashew nut Pack
+113,11,2,12/14/2019 2:09,Cashew nut Pack
+112,11,3,6/16/2019 2:30,Cashew nut Pack
+110,3,1,9/29/2019 22:25,Expresso
+111,12,2,1/6/2020 11:30,Pringles
+110,5,3,5/24/2019 5:06,Ice Coffee
+110,9,4,3/20/2020 8:09,Almonds Pack
+112,12,2,8/6/2019 21:35,Pringles
+115,1,4,10/21/2019 12:16,Mocha Latte Coffee
+112,13,2,1/11/2020 0:53,Cape Cod Chips
+108,3,1,12/8/2019 6:06,Expresso
+114,5,2,10/15/2019 14:22,Ice Coffee
+109,15,2,8/4/2019 6:00,Snickers
+104,9,1,3/11/2020 17:30,Almonds Pack
+107,9,2,2/3/2020 16:58,Almonds Pack
+109,6,4,10/27/2019 12:47,Iced Cappacino
+105,9,1,5/11/2019 21:14,Almonds Pack
+115,5,5,2/14/2020 4:14,Ice Coffee
+115,6,1,9/2/2019 23:28,Iced Cappacino
+105,14,2,12/27/2019 20:35,Doritos
+105,10,1,11/8/2019 12:54,Pistachios Pack
+115,13,4,1/17/2020 18:29,Cape Cod Chips
+109,9,2,3/13/2020 10:47,Almonds Pack
+113,2,1,11/4/2019 7:35,Vanilla Chai
+107,6,2,5/3/2019 6:38,Iced Cappacino
+109,13,1,1/25/2020 8:58,Cape Cod Chips
+105,10,5,5/30/2019 8:02,Pistachios Pack
+112,13,4,10/22/2019 17:19,Cape Cod Chips
+105,10,4,11/3/2019 6:42,Pistachios Pack
+105,11,4,5/17/2019 23:36,Cashew nut Pack
+114,11,4,11/6/2019 16:37,Cashew nut Pack
+114,2,2,1/18/2020 7:58,Vanilla Chai
+109,3,3,8/3/2019 7:20,Expresso
+113,10,4,8/1/2019 6:21,Pistachios Pack
+106,15,3,8/9/2019 19:41,Snickers
+101,4,5,9/5/2019 2:22,Cold Brew
+106,7,1,10/6/2019 8:54,Banana Juice
+110,12,4,11/6/2019 23:38,Pringles
+109,1,5,10/5/2019 18:39,Mocha Latte Coffee
+107,2,2,2/29/2020 22:19,Vanilla Chai
+110,13,4,12/18/2019 17:01,Cape Cod Chips
+104,15,2,12/3/2019 8:16,Snickers
+112,7,2,2/23/2020 8:01,Banana Juice
+103,2,1,5/24/2019 12:38,Vanilla Chai
+106,2,5,12/8/2019 1:13,Vanilla Chai
+101,12,5,10/24/2019 21:36,Pringles
+109,2,1,3/6/2020 11:50,Vanilla Chai
+100,7,1,5/11/2019 21:10,Banana Juice
+113,14,5,3/4/2020 17:26,Doritos
+103,4,4,2/27/2020 16:21,Cold Brew
+110,5,4,11/8/2019 13:56,Ice Coffee
+107,1,3,8/8/2019 23:56,Mocha Latte Coffee
+114,6,2,4/28/2019 13:33,Iced Cappacino
+115,5,1,2/12/2020 22:33,Ice Coffee
+106,4,4,6/15/2019 3:37,Cold Brew
+109,13,4,10/20/2019 16:21,Cape Cod Chips
+100,4,2,6/18/2019 8:28,Cold Brew
+112,9,5,3/4/2020 3:58,Almonds Pack
+106,5,4,11/15/2019 12:45,Ice Coffee
+111,13,1,11/8/2019 13:23,Cape Cod Chips
+108,1,4,7/18/2019 19:45,Mocha Latte Coffee
+104,5,2,12/20/2019 23:56,Ice Coffee
+103,14,4,2/22/2020 3:23,Doritos
+112,8,0,9/11/2019 1:18,Apple Juice
+114,4,2,9/7/2019 8:26,Cold Brew
+108,13,3,2/9/2020 22:27,Cape Cod Chips
+109,4,3,11/11/2019 19:38,Cold Brew
+111,6,2,12/26/2019 6:06,Iced Cappacino
+100,14,5,5/6/2019 17:55,Doritos
+111,14,3,2/26/2020 23:09,Doritos
+109,1,4,5/25/2019 22:27,Mocha Latte Coffee
+106,3,2,9/3/2019 9:49,Expresso
+106,9,4,12/31/2019 6:32,Almonds Pack
+101,3,2,5/8/2019 14:43,Expresso
+109,10,4,9/11/2019 17:55,Pistachios Pack
+107,4,2,2/29/2020 6:43,Cold Brew
+103,1,3,3/9/2020 16:29,Mocha Latte Coffee
+113,6,4,1/1/2020 5:58,Iced Cappacino
+109,5,2,3/24/2020 4:56,Ice Coffee
+110,5,1,10/2/2019 12:03,Ice Coffee
+108,14,2,12/24/2019 10:04,Doritos
+114,11,2,3/18/2020 13:31,Cashew nut Pack
+100,12,0,10/3/2019 8:52,Pringles
+100,1,3,10/25/2019 17:06,Mocha Latte Coffee
+113,13,3,4/15/2019 19:00,Cape Cod Chips
+111,7,2,5/24/2019 18:57,Banana Juice
+105,2,2,4/4/2019 7:19,Vanilla Chai
+109,11,2,2/27/2020 9:51,Cashew nut Pack
+106,2,5,12/29/2019 23:21,Vanilla Chai
+108,5,2,11/7/2019 14:35,Ice Coffee
+105,5,4,10/10/2019 18:33,Ice Coffee
+101,10,2,6/30/2019 21:24,Pistachios Pack
+104,8,4,7/13/2019 16:33,Apple Juice
+106,3,2,1/17/2020 15:56,Expresso
+105,5,2,7/3/2019 4:28,Ice Coffee
+105,10,1,11/7/2019 15:43,Pistachios Pack
+114,6,2,9/23/2019 5:20,Iced Cappacino
+110,6,2,2/19/2020 12:25,Iced Cappacino
+115,15,3,8/5/2019 6:24,Snickers
+103,11,3,2/2/2020 4:48,Cashew nut Pack
+106,13,4,9/28/2019 20:11,Cape Cod Chips
+112,2,3,3/9/2020 13:59,Vanilla Chai
+100,11,2,1/13/2020 14:18,Cashew nut Pack
+111,5,4,9/11/2019 8:08,Ice Coffee
+109,6,4,6/29/2019 3:33,Iced Cappacino
+112,14,2,4/1/2019 6:59,Doritos
+108,4,2,6/9/2019 10:23,Cold Brew
+109,5,5,11/11/2019 0:34,Ice Coffee
+103,2,2,2/18/2020 14:48,Vanilla Chai
+112,7,2,9/6/2019 9:40,Banana Juice
+106,5,5,5/17/2019 13:09,Ice Coffee
+104,4,2,4/18/2019 0:30,Cold Brew
+100,5,4,3/26/2020 22:45,Ice Coffee
+109,5,1,11/13/2019 10:56,Ice Coffee
+100,7,2,5/2/2019 0:43,Banana Juice
+114,1,4,10/21/2019 5:06,Mocha Latte Coffee
+107,3,2,5/28/2019 18:03,Expresso
+101,13,2,8/29/2019 4:06,Cape Cod Chips
+105,12,4,2/16/2020 1:13,Pringles
+102,2,5,12/7/2019 11:54,Vanilla Chai
+102,3,2,7/15/2019 16:20,Expresso
+105,6,1,11/11/2019 5:23,Iced Cappacino
+112,12,2,9/14/2019 2:06,Pringles
+110,1,3,9/10/2019 16:12,Mocha Latte Coffee
+110,12,2,7/7/2019 6:26,Pringles
+108,4,4,6/4/2019 18:12,Cold Brew
+108,8,1,7/31/2019 13:01,Apple Juice
+108,15,1,4/22/2019 19:44,Snickers
+109,11,1,11/8/2019 2:14,Cashew nut Pack
+110,11,3,10/13/2019 5:49,Cashew nut Pack
+110,2,1,10/25/2019 21:22,Vanilla Chai
+106,2,1,12/5/2019 12:20,Vanilla Chai
+111,1,1,7/1/2019 17:37,Mocha Latte Coffee
+104,9,1,2/15/2020 3:32,Almonds Pack
+109,9,3,6/29/2019 22:44,Almonds Pack
+112,5,1,3/11/2020 12:11,Ice Coffee
+103,14,2,8/16/2019 23:46,Doritos
+106,10,4,12/19/2019 22:46,Pistachios Pack
+113,13,3,12/21/2019 23:10,Cape Cod Chips
+101,15,1,12/25/2019 13:30,Snickers
+114,6,5,4/25/2019 9:57,Iced Cappacino
+110,1,5,8/6/2019 21:16,Mocha Latte Coffee
+102,12,2,10/14/2019 6:10,Pringles
+114,10,1,12/14/2019 12:54,Pistachios Pack
+113,15,5,3/27/2020 3:26,Snickers
+101,9,1,12/29/2019 22:05,Almonds Pack
+109,15,3,1/30/2020 6:36,Snickers
+115,5,1,7/2/2019 2:19,Ice Coffee
+110,11,1,9/20/2019 8:39,Cashew nut Pack
+112,9,5,2/25/2020 12:39,Almonds Pack
+114,1,4,1/19/2020 14:33,Mocha Latte Coffee
+105,5,4,2/5/2020 6:40,Ice Coffee
+111,7,1,8/5/2019 0:55,Banana Juice
+104,8,5,11/16/2019 0:17,Apple Juice
+106,2,4,2/26/2020 5:35,Vanilla Chai
+112,15,1,9/24/2019 4:45,Snickers
+103,1,2,3/24/2020 21:13,Mocha Latte Coffee
+100,3,2,4/25/2019 10:43,Expresso
+115,13,3,7/14/2019 2:38,Cape Cod Chips
+115,6,2,8/17/2019 4:05,Iced Cappacino
+112,14,4,3/11/2020 20:11,Doritos
+106,10,3,6/2/2019 7:19,Pistachios Pack
+114,6,2,11/28/2019 19:08,Iced Cappacino
+107,12,1,12/19/2019 3:30,Pringles
+114,8,2,9/12/2019 2:21,Apple Juice
+105,10,3,7/8/2019 7:20,Pistachios Pack
+107,13,2,10/13/2019 2:16,Cape Cod Chips
+110,3,5,3/6/2020 21:24,Expresso
+110,10,1,9/15/2019 5:46,Pistachios Pack
+111,7,2,11/27/2019 16:36,Banana Juice
+103,13,1,12/25/2019 12:04,Cape Cod Chips
+109,9,4,4/15/2019 9:11,Almonds Pack
+111,7,3,4/16/2019 9:58,Banana Juice
+114,4,1,3/19/2020 0:35,Cold Brew
+102,3,1,2/6/2020 15:42,Expresso
+113,9,1,11/1/2019 15:41,Almonds Pack
+113,8,1,10/18/2019 0:13,Apple Juice
+110,10,2,9/13/2019 14:38,Pistachios Pack
+104,4,1,2/26/2020 4:09,Cold Brew
+100,6,4,12/11/2019 12:02,Iced Cappacino
+107,3,1,6/10/2019 3:15,Expresso
+102,12,1,10/25/2019 13:48,Pringles
+107,10,4,4/11/2019 3:54,Pistachios Pack
+103,4,2,8/11/2019 4:54,Cold Brew
+115,1,1,1/31/2020 20:59,Mocha Latte Coffee
+109,14,3,1/7/2020 3:18,Doritos
+104,11,2,5/14/2019 15:17,Cashew nut Pack
+112,6,2,6/6/2019 1:09,Iced Cappacino
+103,5,4,9/12/2019 18:14,Ice Coffee
+104,4,5,6/11/2019 12:30,Cold Brew
+115,4,2,6/9/2019 15:17,Cold Brew
+114,15,2,11/12/2019 3:14,Snickers
+104,2,2,6/24/2019 21:57,Vanilla Chai
+101,1,1,1/31/2020 15:05,Mocha Latte Coffee
+106,14,1,12/11/2019 19:56,Doritos
+102,15,2,11/10/2019 22:15,Snickers
+113,2,2,10/12/2019 2:27,Vanilla Chai
+111,13,4,10/30/2019 5:07,Cape Cod Chips
+105,12,1,4/1/2019 15:49,Pringles
+100,14,1,5/14/2019 5:18,Doritos
+100,7,4,11/28/2019 19:17,Banana Juice
+110,6,1,3/10/2020 8:58,Iced Cappacino
+109,3,2,7/8/2019 16:33,Expresso
+105,15,5,12/10/2019 13:50,Snickers
+106,5,1,7/17/2019 17:57,Ice Coffee
+105,1,1,9/4/2019 3:22,Mocha Latte Coffee
+112,7,2,5/8/2019 15:10,Banana Juice
+107,10,1,2/27/2020 3:11,Pistachios Pack
+109,8,3,10/22/2019 22:24,Apple Juice
+100,5,1,6/26/2019 4:15,Ice Coffee
+115,3,1,10/5/2019 7:03,Expresso
+111,15,3,4/24/2019 21:04,Snickers
+107,15,1,11/9/2019 22:16,Snickers
+114,8,2,10/8/2019 12:57,Apple Juice
+106,8,4,8/6/2019 10:07,Apple Juice
+109,6,5,5/31/2019 4:06,Iced Cappacino
+113,14,2,7/2/2019 3:26,Doritos
+101,11,5,10/6/2019 11:35,Cashew nut Pack
+100,14,3,9/24/2019 8:06,Doritos
+100,13,1,2/16/2020 20:29,Cape Cod Chips
+106,7,2,8/22/2019 20:43,Banana Juice
+102,8,2,10/14/2019 17:07,Apple Juice
+102,4,4,8/18/2019 7:26,Cold Brew
+108,13,5,2/24/2020 19:38,Cape Cod Chips
+112,3,2,5/4/2019 4:44,Expresso
+106,9,3,8/10/2019 22:28,Almonds Pack
+107,1,2,3/16/2020 2:54,Mocha Latte Coffee
+106,4,2,5/14/2019 9:38,Cold Brew
+103,3,1,1/2/2020 19:02,Expresso
+101,5,4,4/12/2019 12:09,Ice Coffee
+105,6,1,12/19/2019 12:54,Iced Cappacino
+106,10,4,10/4/2019 1:30,Pistachios Pack
+106,3,1,2/15/2020 9:27,Expresso
+114,12,1,5/14/2019 22:50,Pringles
+104,3,2,1/16/2020 4:17,Expresso
+100,5,2,2/21/2020 17:49,Ice Coffee
+106,3,1,6/19/2019 21:03,Expresso
+114,9,1,12/15/2019 7:24,Almonds Pack
+111,10,1,12/21/2019 9:55,Pistachios Pack
+102,11,2,12/16/2019 19:48,Cashew nut Pack
+105,8,3,8/1/2019 5:35,Apple Juice
+112,1,1,11/11/2019 17:33,Mocha Latte Coffee
+101,12,4,1/5/2020 18:45,Pringles
+110,13,3,1/27/2020 12:43,Cape Cod Chips
+105,10,3,9/25/2019 19:16,Pistachios Pack
+102,15,1,9/20/2019 4:00,Snickers
+102,5,4,3/13/2020 2:28,Ice Coffee
+105,13,2,2/27/2020 11:14,Cape Cod Chips
+106,7,5,12/30/2019 6:51,Banana Juice
+101,6,2,4/10/2019 23:11,Iced Cappacino
+111,9,3,7/18/2019 13:26,Almonds Pack
+111,13,2,4/27/2019 20:37,Cape Cod Chips
+102,6,2,12/7/2019 14:26,Iced Cappacino
+108,11,2,9/15/2019 22:16,Cashew nut Pack
+114,8,1,1/13/2020 10:15,Apple Juice
+113,4,2,2/22/2020 15:47,Cold Brew
+115,3,2,8/5/2019 17:47,Expresso
+104,9,1,5/2/2019 21:23,Almonds Pack
+109,8,4,11/6/2019 15:54,Apple Juice
+101,11,4,1/14/2020 19:11,Cashew nut Pack
+112,3,2,5/24/2019 3:23,Expresso
+101,5,1,10/16/2019 10:42,Ice Coffee
+109,7,2,3/14/2020 16:24,Banana Juice
+103,6,5,9/9/2019 22:28,Iced Cappacino
+113,2,4,3/12/2020 22:14,Vanilla Chai
+106,11,2,1/4/2020 1:58,Cashew nut Pack
+107,11,4,7/16/2019 20:46,Cashew nut Pack
+100,9,2,10/3/2019 0:06,Almonds Pack
+107,14,5,1/5/2020 6:01,Doritos
+111,6,4,12/26/2019 9:39,Iced Cappacino
+113,3,4,6/11/2019 1:10,Expresso
+113,5,4,11/23/2019 14:31,Ice Coffee
+108,7,5,3/30/2019 12:00,Banana Juice
+114,15,3,4/4/2019 16:01,Snickers
+114,2,2,1/8/2020 3:21,Vanilla Chai
+103,13,2,2/9/2020 12:57,Cape Cod Chips
+114,12,4,11/2/2019 20:50,Pringles
+102,14,5,2/26/2020 11:51,Doritos
+103,13,3,5/21/2019 7:45,Cape Cod Chips
+113,15,2,3/26/2020 13:46,Snickers
+100,13,2,2/23/2020 6:09,Cape Cod Chips
+102,1,0,3/13/2020 10:33,Mocha Latte Coffee
+107,8,3,12/11/2019 16:05,Apple Juice
+112,11,2,10/15/2019 16:18,Cashew nut Pack
+100,5,1,8/13/2019 18:42,Ice Coffee
+110,7,3,7/3/2019 22:29,Banana Juice
+112,7,1,7/29/2019 3:00,Banana Juice
+115,3,1,3/8/2020 11:31,Expresso
+108,2,1,10/18/2019 14:29,Vanilla Chai
+109,6,3,1/1/2020 19:10,Iced Cappacino
+104,5,1,11/11/2019 11:32,Ice Coffee
+100,9,4,5/26/2019 2:33,Almonds Pack
+115,1,5,8/3/2019 3:24,Mocha Latte Coffee
+107,9,2,3/4/2020 9:58,Almonds Pack
+108,5,2,8/19/2019 19:11,Ice Coffee
+103,1,5,3/1/2020 11:05,Mocha Latte Coffee
+105,1,1,10/13/2019 9:02,Mocha Latte Coffee
+104,15,3,10/29/2019 7:41,Snickers
+110,6,2,9/27/2019 7:02,Iced Cappacino
+100,5,2,6/3/2019 8:57,Ice Coffee
+111,10,4,5/31/2019 9:15,Pistachios Pack
+105,7,4,9/28/2019 1:26,Banana Juice
+112,15,3,9/28/2019 8:53,Snickers
+102,2,3,6/24/2019 8:40,Vanilla Chai
+100,7,1,3/22/2020 2:35,Banana Juice
+104,11,2,9/22/2019 10:59,Cashew nut Pack
+107,15,3,9/17/2019 10:44,Snickers
+100,1,3,5/29/2019 22:41,Mocha Latte Coffee
+113,10,4,6/17/2019 11:18,Pistachios Pack
+109,1,5,3/29/2019 14:36,Mocha Latte Coffee
+113,11,2,9/3/2019 4:33,Cashew nut Pack
+110,14,1,12/14/2019 23:32,Doritos
+109,2,2,3/19/2020 17:52,Vanilla Chai
+101,10,5,1/5/2020 14:40,Pistachios Pack
+104,5,4,6/17/2019 22:13,Ice Coffee
+112,14,2,6/29/2019 7:24,Doritos
+105,4,2,10/29/2019 5:20,Cold Brew
+103,7,3,8/25/2019 2:18,Banana Juice
+107,4,3,8/6/2019 16:18,Cold Brew
+100,14,4,8/31/2019 10:39,Doritos
+107,8,0,7/19/2019 21:47,Apple Juice
+113,11,2,3/20/2020 15:03,Cashew nut Pack
+111,1,1,1/28/2020 19:39,Mocha Latte Coffee
+114,14,0,2/9/2020 8:30,Doritos
+104,1,1,12/1/2019 21:21,Mocha Latte Coffee
+105,14,2,2/14/2020 2:41,Doritos
+112,11,3,5/30/2019 9:15,Cashew nut Pack
+114,2,1,6/22/2019 12:59,Vanilla Chai
+100,4,4,10/12/2019 12:43,Cold Brew
+114,5,1,7/18/2019 11:17,Ice Coffee
+104,14,3,4/6/2019 20:46,Doritos
+109,14,2,9/16/2019 7:06,Doritos
+103,3,3,2/29/2020 18:29,Expresso
+105,8,2,2/3/2020 4:28,Apple Juice
+108,12,2,2/12/2020 20:42,Pringles
+107,14,5,5/1/2019 22:29,Doritos
+102,13,4,8/4/2019 16:22,Cape Cod Chips
+100,11,1,11/27/2019 7:23,Cashew nut Pack
+103,4,2,12/24/2019 17:44,Cold Brew
+107,15,2,4/7/2019 3:43,Snickers
+112,14,0,3/13/2020 1:23,Doritos
+107,9,2,9/15/2019 8:18,Almonds Pack
+106,5,2,8/9/2019 9:50,Ice Coffee
+111,13,4,3/31/2019 9:29,Cape Cod Chips
+107,9,1,12/22/2019 7:43,Almonds Pack
+109,1,4,4/18/2019 12:35,Mocha Latte Coffee
+113,10,1,8/12/2019 21:33,Pistachios Pack
+104,13,0,4/7/2019 13:34,Cape Cod Chips
+104,14,4,4/29/2019 0:11,Doritos
+106,8,2,8/18/2019 12:41,Apple Juice
+107,5,2,4/29/2019 7:30,Ice Coffee
+110,13,5,2/7/2020 13:40,Cape Cod Chips
+115,5,3,11/22/2019 4:32,Ice Coffee
+114,15,3,8/20/2019 11:29,Snickers
+105,12,3,8/4/2019 11:04,Pringles
+114,3,3,12/26/2019 13:27,Expresso
+115,14,1,7/29/2019 6:07,Doritos
+100,4,5,7/10/2019 14:50,Cold Brew
+111,1,2,6/30/2019 16:40,Mocha Latte Coffee
+109,13,4,10/17/2019 0:20,Cape Cod Chips
+106,8,4,9/6/2019 12:15,Apple Juice
+109,10,3,1/6/2020 14:11,Pistachios Pack
+101,10,2,4/9/2019 2:13,Pistachios Pack
+108,8,4,4/5/2019 14:14,Apple Juice
+107,13,3,1/29/2020 14:24,Cape Cod Chips
+104,5,1,10/20/2019 6:53,Ice Coffee
+104,1,4,6/14/2019 4:49,Mocha Latte Coffee
+111,2,4,12/19/2019 6:38,Vanilla Chai
+107,12,1,3/22/2020 7:33,Pringles
+113,7,5,4/8/2019 0:12,Banana Juice
+108,10,3,7/20/2019 18:41,Pistachios Pack
+115,9,2,9/12/2019 6:13,Almonds Pack
+112,10,3,2/22/2020 11:14,Pistachios Pack
+110,12,1,8/13/2019 20:52,Pringles
+113,15,3,8/10/2019 23:12,Snickers
+115,2,4,1/21/2020 13:29,Vanilla Chai
+106,4,4,1/11/2020 20:52,Cold Brew
+103,12,5,5/15/2019 11:46,Pringles
+115,3,1,2/29/2020 19:33,Expresso
+114,12,4,5/26/2019 7:08,Pringles
+115,11,1,1/20/2020 22:57,Cashew nut Pack
+110,15,3,7/24/2019 6:41,Snickers
+103,1,4,3/18/2020 0:53,Mocha Latte Coffee
+101,14,4,10/23/2019 5:06,Doritos
+106,11,3,10/24/2019 10:22,Cashew nut Pack
+100,12,3,8/10/2019 9:06,Pringles
+115,7,4,1/23/2020 4:49,Banana Juice
+109,12,2,10/28/2019 13:41,Pringles
+113,15,1,1/14/2020 21:56,Snickers
+112,13,1,10/24/2019 18:06,Cape Cod Chips
+109,2,4,11/14/2019 9:46,Vanilla Chai
+107,2,2,9/8/2019 7:57,Vanilla Chai
+115,7,4,6/26/2019 2:17,Banana Juice
+101,15,1,8/12/2019 11:59,Snickers
+114,3,3,4/19/2019 15:35,Expresso
+101,1,2,2/13/2020 2:24,Mocha Latte Coffee
+100,7,5,9/1/2019 15:28,Banana Juice
+109,13,1,10/28/2019 22:15,Cape Cod Chips
+102,13,2,11/15/2019 7:02,Cape Cod Chips
+105,2,1,1/2/2020 17:25,Vanilla Chai
+102,12,4,2/24/2020 13:11,Pringles
+110,13,2,5/10/2019 10:17,Cape Cod Chips
+115,1,2,7/22/2019 7:16,Mocha Latte Coffee
+113,2,4,3/6/2020 4:47,Vanilla Chai
+111,12,4,4/22/2019 15:17,Pringles
+105,7,2,9/28/2019 4:04,Banana Juice
+114,14,2,3/5/2020 1:05,Doritos
+111,14,1,7/7/2019 22:05,Doritos
+114,3,1,5/10/2019 7:41,Expresso
+111,9,4,12/15/2019 9:44,Almonds Pack
+104,10,2,1/7/2020 19:37,Pistachios Pack
+112,12,2,5/25/2019 8:34,Pringles
+112,15,4,1/27/2020 0:47,Snickers
+115,14,5,1/19/2020 23:24,Doritos
+102,2,1,10/24/2019 9:22,Vanilla Chai
+105,8,2,6/14/2019 4:34,Apple Juice
+109,9,4,6/12/2019 20:21,Almonds Pack
+108,7,2,7/18/2019 16:22,Banana Juice
+104,9,1,1/8/2020 9:22,Almonds Pack
+113,15,3,9/23/2019 8:44,Snickers
+102,13,4,8/30/2019 10:51,Cape Cod Chips
+101,12,2,8/17/2019 12:03,Pringles
+103,12,1,10/4/2019 6:26,Pringles
+110,14,2,5/16/2019 8:55,Doritos
+114,13,1,4/14/2019 12:03,Cape Cod Chips
+100,11,1,11/12/2019 5:31,Cashew nut Pack
+108,6,4,2/11/2020 1:19,Iced Cappacino
+114,14,2,3/26/2020 1:34,Doritos
+113,2,3,9/19/2019 20:36,Vanilla Chai
+114,14,2,9/11/2019 18:36,Doritos
+107,14,3,12/10/2019 7:10,Doritos
+112,7,4,6/7/2019 7:15,Banana Juice
+112,7,2,1/29/2020 22:48,Banana Juice
+101,1,5,11/21/2019 1:17,Mocha Latte Coffee
+114,11,5,5/7/2019 0:51,Cashew nut Pack
+115,12,2,10/18/2019 2:14,Pringles
+106,11,1,3/14/2020 21:44,Cashew nut Pack
+115,4,4,10/20/2019 1:40,Cold Brew
+101,8,2,1/20/2020 10:53,Apple Juice
+111,13,5,6/15/2019 18:53,Cape Cod Chips
+112,2,2,8/7/2019 8:29,Vanilla Chai
+113,4,1,9/9/2019 13:10,Cold Brew
+104,1,1,9/10/2019 21:48,Mocha Latte Coffee
+101,13,2,10/8/2019 17:03,Cape Cod Chips
+102,3,4,10/30/2019 16:28,Expresso
+112,9,1,10/22/2019 12:07,Almonds Pack
+107,12,2,4/1/2019 7:19,Pringles
+106,6,3,9/30/2019 14:23,Iced Cappacino
+106,11,4,2/24/2020 15:39,Cashew nut Pack
+108,12,4,8/15/2019 14:30,Pringles
+114,15,5,1/10/2020 7:09,Snickers
+111,6,2,8/22/2019 2:17,Iced Cappacino
+103,1,4,9/7/2019 11:38,Mocha Latte Coffee
+108,4,4,2/23/2020 3:13,Cold Brew
+112,1,1,10/9/2019 3:04,Mocha Latte Coffee
+109,5,2,9/22/2019 22:59,Ice Coffee
+110,8,4,11/2/2019 7:19,Apple Juice
+110,12,2,8/31/2019 17:57,Pringles
+113,14,5,10/21/2019 16:19,Doritos
+114,5,4,3/24/2020 11:33,Ice Coffee
+105,12,2,3/13/2020 13:35,Pringles
+105,4,2,10/2/2019 14:14,Cold Brew
+114,13,2,11/7/2019 10:45,Cape Cod Chips
+105,11,1,2/14/2020 13:21,Cashew nut Pack
+105,3,5,8/16/2019 14:41,Expresso
+108,5,2,5/21/2019 5:35,Ice Coffee
+107,2,4,2/26/2020 8:26,Vanilla Chai
+105,10,2,7/24/2019 11:54,Pistachios Pack
+111,3,2,4/6/2019 8:33,Expresso
+105,11,1,5/7/2019 1:21,Cashew nut Pack
+106,3,2,10/3/2019 8:09,Expresso
+106,3,2,10/3/2019 8:09,Expresso
