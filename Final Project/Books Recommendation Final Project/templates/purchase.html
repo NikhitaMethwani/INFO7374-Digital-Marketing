@@ -1,0 +1,18 @@
+<html>
+   <body>
+<form action = "/welcome" method = "post">
+    <br>
+          <p>Thank you {{uname}} for shopping with us , books details have been sent on your email, Enjoy reading!</p>
+         <h3>Books you may like to read in future:</h3>
+          {% for b in book_details %}
+               <img src="{{b[6]}}" width="150" height="200"/>
+               <li>Author: {{ b[2] }}</li>
+               <li>Genre: {{ b[5] }}</li>
+               <li>Price:{{ b[10] }}</li>
+               <li>Rating: {{ b[7] }}</li> <br>
+          {% endfor %}
+
+          <p><input type = "submit" name="sub" value = "Exit" /></p>
+      </form>
+   </body>
+</html>

@@ -1,0 +1,31 @@
+<html>
+<body>
+
+<form action="/purchase?uname={{uname}}&booktitle={{title}}" method="post">
+
+    {% for u in user %}
+    <input type="hidden" name="uid" value={{ u[0] }}/>
+    {% endfor %}
+
+    {% for b in book_details %}
+    <p>{{uname}} , we hope you enjoy reading this {{ b[5] }} book</p>
+    <input type="hidden" name="booktitle" value={{ b[3] }}/>
+    <input type="hidden" name="price" value={{ b[10] }}/>
+    <img src="{{b[6]}}" width="150" height="200"/>
+    <li>Author: {{ b[2] }}</li>
+    <li>Genre : {{ b[5] }}</li>
+    <li>Rating : {{ b[7] }}</li>
+    <li>Price : {{ b[10] }}</li>
+    <li>Description : {{ b[11] }}</li>
+    {% endfor %}
+
+    <hr style=size : 30px">
+    <h3>Enter your Email Id to purchase the book</h3>
+    <p>Email ID : <input type="text" name="email" required="true"/></p>
+    <p><input type="submit" name="sub" value="Purchase"/></p>
+    <hr style=size : 30px">
+
+</form>
+</body>
+</html>
+
